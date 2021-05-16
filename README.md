@@ -1,5 +1,5 @@
 ### Hello Everyone, I’m Shriraj 👋
-  <img align="right" alt="GIF" src="https://github.com/snipemonk/snipemonk/blob/main/datascience.gif?raw=true" width="500" height="420" />
+  <img align="right" alt="GIF" src="https://github.com/snipemonk/snipemonk/blob/main/datascience.gif?raw=true" width="400" height="420" />
   
   
 ## I'm a Data Scientist and a Classic Literature Lover!!
