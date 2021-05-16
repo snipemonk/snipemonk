@@ -2,7 +2,7 @@
   <img align="right" alt="GIF" src="https://github.com/snipemonk/snipemonk/blob/main/datascience.gif?raw=true" width="400" height="420" />
   
   
-## I'm a Data Scientist,Bibliophile & Armchair Cinephile!!
+## Data Scientist,Bibliophile & Armchair Cinephile !!
 - ✍ You can find my projects here
 - 🔭 I’m currently learning Kubernetes and CI/CD process
 - 🌱 I am currently learning Spanish
@@ -33,17 +33,28 @@
 
 <br />
 <br />
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=snipemonk&show_icons=true&hide_border=true" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=snipemonk&show_icons=true&hide_border=true" />
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipemonk" />
+<img align="left" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipemonk" />
 
 </details>
 
