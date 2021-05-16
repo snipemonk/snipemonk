@@ -8,7 +8,9 @@
 - 🌱 I am currently learning Spanish
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I am a hardcore Fifa Gamer on the Playstation. 
+- <img align="left" alt="Kubernetes" width="20px" src="http://123emoji.com/wp-content/uploads/2016/08/Real-Madrid-Official-Stickers-.F19703.png"/>Fun fact: I am a Real Madrid Fan. Hala Madrid !
+
+
 
 
 ### Talk to me about anything Data Science:
