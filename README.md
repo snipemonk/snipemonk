@@ -2,7 +2,7 @@
   <img align="right" alt="GIF" src="https://github.com/snipemonk/snipemonk/blob/main/datascience.gif?raw=true" width="400" height="420" />
   
   
-## I'm a Data Scientist,Literature and Soccer Lover!!
+## I'm a Data Scientist,Bibliophile & Armchair Cinephile!!
 - ✍ You can find my projects here
 - 🔭 I’m currently learning Kubernetes and CI/CD process
 - 🌱 I am currently learning Spanish
